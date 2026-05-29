@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5053e690e989e324dbe2f2b55eb3939f, type: 3}
+  m_Name: Erlenmeyer
+  m_EditorClassIdentifier: 
+  displayName: Erlenmeyer
+  description: "Frasco c\xF4nico com base larga e gargalo estreito, ideal para titula\xE7\xF5es
+    e rea\xE7\xF5es que envolvem agita\xE7\xE3o manual, pois o formato evita respingos.
+    Tamb\xE9m usado para aquecer l\xEDquidos e armazenar solu\xE7\xF5es temporariamente.
+    Recebe esse nome em homenagem ao qu\xEDmico alem\xE3o Emil Erlenmeyer."

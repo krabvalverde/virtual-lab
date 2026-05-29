@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5053e690e989e324dbe2f2b55eb3939f, type: 3}
+  m_Name: GraduatedCylinder
+  m_EditorClassIdentifier: 
+  displayName: Proveta
+  description: "Cilindro graduado de vidro ou pl\xE1stico usado para medir volumes
+    de l\xEDquidos com precis\xE3o muito superior \xE0 de um b\xE9quer. A leitura
+    \xE9 feita pela parte inferior do menisco, com o olho na altura do l\xEDquido.
+    N\xE3o deve ser aquecida nem usada em rea\xE7\xF5es qu\xEDmicas \u2014 fun\xE7\xE3o
+    estritamente volum\xE9trica."
